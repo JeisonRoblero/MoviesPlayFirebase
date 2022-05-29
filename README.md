@@ -1,4 +1,4 @@
-# MoviesPlayFirebase
+# MoviesPlay Firebase
 Movies es una aplicación web para consulta y visualización de películas. Escrita en el lenguaje de programación Java como backend; HTML, CSS y JavaScript como frontend. En esta versión se utilizó tecnologías de Java como lo son Java Servlet y JSP. La estructura de datos utilizada para el almacenamiento de películas fue Listas Circulares Simples (En Cartelera), Listas Doblemente Enlazadas (En Populares) y Árboles Binarios (En los Actores). Adicional a esto en esta versión se utiliza Firebase como base de datos para realizar copias de seguridad y de esta manera mantener persistente toda la información.
 
 # Capturas de Pantalla

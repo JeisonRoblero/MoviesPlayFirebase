@@ -1,0 +1,12 @@
+com\proyecto\moviesplay\ListaDoblementeEnlazada.class
+com\proyecto\moviesplay\Pelicula.class
+com\proyecto\moviesplay\CircularServlet.class
+com\proyecto\moviesplay\ActoresAPI.class
+com\proyecto\moviesplay\PeliculasAPI.class
+com\proyecto\moviesplay\ABB.class
+com\proyecto\moviesplay\ActoresAPI$Cast.class
+com\proyecto\moviesplay\ABBServlet.class
+com\proyecto\moviesplay\DoblementeEnlazadaServlet.class
+com\proyecto\moviesplay\PeliculasAPI$ResultsP.class
+com\proyecto\moviesplay\Actores.class
+com\proyecto\moviesplay\ListaCircularSimple.class
